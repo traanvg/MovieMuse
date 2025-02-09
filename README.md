@@ -1,6 +1,6 @@
-# MovieHub
+# MovieMuse
 
-MovieHub is a web application built with React and Vite, allowing users to explore, search, and favorite movies. The app dynamically renders movie information from an external API and provides a responsive, modern user interface.
+MovieMuse is a web application built with React and Vite, allowing users to explore, search, and favorite movies. The app dynamically renders movie information from an external API and provides a responsive, modern user interface.
 
 ## Features
 - **Search for movies**: Search through a wide collection of movies by title.
